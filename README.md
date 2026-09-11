@@ -37,8 +37,6 @@ If `make notebook` does not open a browser, open `notebooks/assessment.ipynb` in
 2. [`data/DATA_CARD.md`](data/DATA_CARD.md) — business goal, columns, constraints
 3. The baseline in [`scripts/baseline.py`](scripts/baseline.py) or the first cells of the notebook
 
-Ignore [`INTERVIEWER.md`](INTERVIEWER.md). That file is for the interviewer.
-
 ## Product goal
 
 Dexwin Pay currently declines too many good customers (**false declines**). Fraud is real, but blocking honest payments loses GMV and merchant trust.
